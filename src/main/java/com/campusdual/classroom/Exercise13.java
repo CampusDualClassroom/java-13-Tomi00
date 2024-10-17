@@ -6,6 +6,7 @@ public class Exercise13 {
         ft.showDetails();
         System.out.println("Actualización capacidad");
         ft.actualFuel = -8;
+        ft.setActualFuel(-8);
         ft.showDetails();
     }
 }
